@@ -11,7 +11,7 @@ public class Merge{
 			a1[i]=sc.nextInt();
 		}
 		
-		System.out.println("enter the array2 size");
+		System.out.println("enter the array 2 size");
 		int n2=sc.nextInt();
 		int a2[]=new int[n2];
 		System.out.println("enter the array no");
